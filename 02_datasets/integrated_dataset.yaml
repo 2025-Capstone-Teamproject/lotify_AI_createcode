@@ -1,0 +1,7 @@
+names:
+  0: hydrant
+  1: disabled_parking
+  2: school_zone
+nc: 3
+train: /content/integrated_3class_dataset_v2/train/images
+val: /content/integrated_3class_dataset_v2/valid/images
